@@ -5,13 +5,11 @@ public class Length_of_String_Using_if_else {
             System.out.println("================================================================");
             System.out.println("Its Eligible");
             System.out.println("================================================================");
-
         }
         else {
             System.out.println("================================================================");
             System.out.println("Its Not Eligible");
             System.out.println("================================================================");
-
         }
         System.out.println("Your Length of String: "+s.length());
 }
@@ -21,7 +19,6 @@ public class Length_of_String_Using_if_else {
         System.out.print("Enter The Input : ");
         String s=sc.nextLine();
         String p=s.replaceAll(" ","");
-        System.out.println(p);
         output.checking(p);
     }
 }
