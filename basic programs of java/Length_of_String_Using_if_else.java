@@ -19,7 +19,9 @@ public class Length_of_String_Using_if_else {
         Length_of_String_Using_if_else output=new Length_of_String_Using_if_else();
         Scanner sc=new Scanner(System.in);
         System.out.print("Enter The Input : ");
-        String s=sc.next();
-        output.checking(s);
+        String s=sc.nextLine();
+        String p=s.replaceAll(" ","");
+        System.out.println(p);
+        output.checking(p);
     }
 }
