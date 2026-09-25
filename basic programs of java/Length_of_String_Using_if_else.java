@@ -4,11 +4,16 @@ public class Length_of_String_Using_if_else {
         if (s.length()>=20) {
             System.out.println("================================================================");
             System.out.println("Its Eligible");
+            System.out.println("================================================================");
+
         }
         else {
             System.out.println("================================================================");
             System.out.println("Its Not Eligible");
+            System.out.println("================================================================");
+
         }
+        System.out.println("Your Length of String: "+s.length());
 }
     public static void main(String[] args) {
         Length_of_String_Using_if_else output=new Length_of_String_Using_if_else();
