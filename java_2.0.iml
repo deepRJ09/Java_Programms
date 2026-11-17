@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/Array" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/LinkedList" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Map" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/abstraction" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/awt" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/basic programs of java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/characters" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/class_conecting" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/encapsulation" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/frameworks in java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/genrics" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/inheritence" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/interface_and_abstraction" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/keywords" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/operations on data types" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/overloading" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/overrriding" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/patterns programs of java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/polymorphism" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
