@@ -1,5 +1,4 @@
 import java.util.regex.*;
-
 public class phonevalidation {
     public static void main(String[] args) {
         String a="015-214-0240";

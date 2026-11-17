@@ -1,5 +1,4 @@
 import java.util.Scanner;
-
 public class dollar_to_inr {
     private double access=95.55 ;
     private double access_2=0.55;

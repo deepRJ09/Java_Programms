@@ -15,7 +15,6 @@ public class complex_number {
         int c=sc.nextInt();
         System.out.print("Enter the digits for d: ");
         int d= sc.nextInt();
-        System.out.println("==================================================");
         int  z_1=a+c;
         int z_2=b+d;
         String z1=a+"+"+b+"i";

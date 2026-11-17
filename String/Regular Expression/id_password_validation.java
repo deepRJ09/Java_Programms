@@ -15,12 +15,11 @@ public class id_password_validation {
         Matcher matcher1=pattern1.matcher(password);
         boolean isID=matcher.matches();
         boolean isPass=matcher1.matches();
-
         if (isID && isPass){
             System.out.println("Valid  ");
         }
 else {
-            System.out.println(" not valid");
+            System.out.println("not valid");
         }
 
     }
